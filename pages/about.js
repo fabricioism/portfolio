@@ -128,12 +128,6 @@ export default function About() {
           candidate and with hiring - on what candidates really want out of a
           position.
         </Talk>
-        <iframe
-          height="280"
-          src="https://www.google.com/maps/d/embed?mid=1QOGi-u8d4vwoQ4vC4zQjKxrSfsDIQdOK&hl=en"
-          title="Lee's Travel Map"
-          width="100%"
-        />
       </div>
     </Container>
   );

@@ -19,7 +19,7 @@ export default function Home() {
         <h3 className="font-bold text-2xl md:text-4xl tracking-tight mb-4 text-black dark:text-white">
           Most Popular
         </h3>
-        <BlogPost
+        {/* <BlogPost
           title="Everything I Know About Style Guides, Design Systems, and Component Libraries"
           summary="A deep-dive on everything I've learned in the past year building style guides, design systems, component libraries, and their best practices."
           slug="style-guides-component-libraries-design-systems"
@@ -33,7 +33,7 @@ export default function Home() {
           title="Creating a Monorepo with Lerna & Yarn Workspaces"
           summary="In this guide, you will learn how to create a Monorepo to manage multiple packages with a shared build, test, and release process."
           slug="monorepo-lerna-yarn-workspaces"
-        />
+        /> */}
         <h3 className="font-bold text-2xl md:text-4xl tracking-tight mb-4 mt-8 text-black dark:text-white">
           Projects
         </h3>
