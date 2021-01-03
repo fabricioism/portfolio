@@ -13,7 +13,7 @@ const SEO = {
     description,
     images: [
       {
-        url: 'https://leerob.io/static/images/banner.jpg',
+        url: 'https://fabricioism.com/static/images/banner.png',
         alt: title,
         width: 1280,
         height: 720
