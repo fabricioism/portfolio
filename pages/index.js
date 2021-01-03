@@ -9,12 +9,15 @@ export default function Home() {
     <Container>
       <div className="flex flex-col justify-center items-start max-w-2xl mx-auto mb-16">
         <h1 className="font-bold text-3xl md:text-5xl tracking-tight mb-4 text-black dark:text-white">
-          Hello everybody! I'm Fabricio Ismael Murillo.
+          Hello everybody! <br />
+          I'm Fabricio Ismael Murillo.
         </h1>
         <h2 className="text-gray-600 dark:text-gray-400 mb-16">
-          I’m a developer, writer, and creator. I work at ▲Vercel as a Solutions
-          Architect. You’ve found my personal slice of the internet – everything
-          you want to know and more is here.
+          I’m a developer, math student and an entrepeneur. I work at{' '}
+          <a href="https://www.premper.com/">Premper Design</a> as a Sofware
+          Engineer. I try to learn every day, my goal is that through software I
+          can contribute to knowledge, having fun and working on things on my
+          computer I can leave the world a little better than I found it.
         </h2>
         <h3 className="font-bold text-2xl md:text-4xl tracking-tight mb-4 text-black dark:text-white">
           Most Popular
@@ -37,7 +40,7 @@ export default function Home() {
         <h3 className="font-bold text-2xl md:text-4xl tracking-tight mb-4 mt-8 text-black dark:text-white">
           Projects
         </h3>
-        <ProjectCard
+        {/* <ProjectCard
           title="React 2025"
           description="Build and deploy a modern Jamstack application using the most popular open-source software."
           href="https://react2025.com/"
@@ -54,7 +57,7 @@ export default function Home() {
           description="The easiest way to add comments or reviews to your static site. Built as part of React 2025."
           href="https://fastfeedback.io/"
           icon="fastfeedback"
-        />
+        /> */}
         <Timeline />
         <Subscribe />
       </div>
