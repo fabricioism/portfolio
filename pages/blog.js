@@ -25,9 +25,7 @@ export default function Blog() {
           Blog
         </h1>
         <p className="text-gray-600 dark:text-gray-400 mb-4">
-          {`I've been writing online since 2014, mostly about web development and tech careers.
-            In total, I've written 24 articles on this site.
-            Use the search below to filter by title.`}
+          {`I'll write about web development and other thinks, I want to share a lot and learn how to comunicate my ideas.`}
         </p>
         <div className="relative w-full mb-4">
           <svg
@@ -46,7 +44,7 @@ export default function Blog() {
           </svg>
         </div>
         <h3 className="font-bold text-2xl md:text-4xl tracking-tight mb-4 mt-8 text-black dark:text-white">
-          All Posts
+          Coming soon
         </h3>
       </div>
     </Container>

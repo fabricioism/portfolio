@@ -16,12 +16,12 @@ export default function Home() {
           I’m a developer, math student and an entrepeneur. I work at{' '}
           <a href="https://www.premper.com/">Premper Design</a> as a Sofware
           Engineer. I try to learn every day, my goal is that through software I
-          can contribute to knowledge, having fun and working on things on my
-          computer I can leave the world a little better than I found it.
+          can contribute to knowledge, having fun and working on amazing things
+          on my computer.
         </h2>
-        <h3 className="font-bold text-2xl md:text-4xl tracking-tight mb-4 text-black dark:text-white">
+        {/* <h3 className="font-bold text-2xl md:text-4xl tracking-tight mb-4 text-black dark:text-white">
           Most Popular
-        </h3>
+        </h3> */}
         {/* <BlogPost
           title="Everything I Know About Style Guides, Design Systems, and Component Libraries"
           summary="A deep-dive on everything I've learned in the past year building style guides, design systems, component libraries, and their best practices."
@@ -37,9 +37,9 @@ export default function Home() {
           summary="In this guide, you will learn how to create a Monorepo to manage multiple packages with a shared build, test, and release process."
           slug="monorepo-lerna-yarn-workspaces"
         /> */}
-        <h3 className="font-bold text-2xl md:text-4xl tracking-tight mb-4 mt-8 text-black dark:text-white">
+        {/* <h3 className="font-bold text-2xl md:text-4xl tracking-tight mb-4 mt-8 text-black dark:text-white">
           Projects
-        </h3>
+        </h3> */}
         {/* <ProjectCard
           title="React 2025"
           description="Build and deploy a modern Jamstack application using the most popular open-source software."
