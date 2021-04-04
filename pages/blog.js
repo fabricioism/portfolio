@@ -5,7 +5,7 @@ import Container from '@/components/Container';
 const url = 'https://fabricioism/blog';
 const title = 'Blog | Fabricio Ismael Murillo';
 const description =
-  'Thoughts on the software industry, programming, tech, videography, music, and my personal life.';
+  'Thoughts on the software industry, programming, tech and my personal life.';
 
 export default function Blog() {
   return (

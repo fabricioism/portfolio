@@ -52,7 +52,7 @@ export default function About() {
         </h1>
         <div className="mb-8 prose leading-6 text-gray-600 dark:text-gray-400">
           <p>
-            Hi there! I’m Fabricio, I'm a developer and math student, and soccer
+            Hi there! I’m Fabricio, I'm a developer, math student, and soccer
             lover. &nbsp;I work at Premper Design as a Software engineer.
           </p>
         </div>
