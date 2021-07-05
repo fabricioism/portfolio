@@ -70,6 +70,17 @@ export default function About() {
           producto, teniendo la confianza de usar una plataforma en la que creen
           compañías como Uber, McDonald’s, entre otras.
         </Talk>
+        <Talk
+          title="Supabase: Una alternativa a Firebase con el poder de SQL"
+          link="https://fabricioism.medium.com/supabase-una-alternativa-a-firebase-con-el-poder-de-sql-d94f9e804ec3"
+        >
+          Hace unos meses comencé un proyecto en firebase, me gustó mucho el ambiente y la facilidad
+          para poder crear una aplicación rápidamente. El problema vino cuando quise saber cuantos
+          documentos tenía en una colección y no poder usar una función count provista por firebase.
+          A finales del año pasado conocí sobre supabase y me impresionó, en ese momento no tenía algunos productos
+          que al día de hoy le dan más poder. Repasa conmigo a lo largo de este artículo lo rápido que puedes crear
+          un backend y disfruta lo que también me impresionó a mi.
+        </Talk>
       </div>
     </Container>
   );

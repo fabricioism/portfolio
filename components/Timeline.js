@@ -135,7 +135,7 @@ export default function Timeline() {
       <Year>2020</Year>
       <ul>
         <Step title="Joined Premper 🦎">
-          One of my friends @robertraf told me that there was an opportunity for
+          One of my friends <a href="https://twitter.com/robert_raf" target="_blank">@robert_raf</a> told me that there was an opportunity for
           a software engineer where he was working to form an engineering team,
           I applied and got the job. We do cool things and have fun.
         </Step>

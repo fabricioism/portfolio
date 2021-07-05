@@ -13,8 +13,8 @@ export default function Home() {
           I'm Fabricio.
         </h1>
         <h2 className="text-gray-600 dark:text-gray-400 mb-16">
-          I’m a developer, math student and an entrepeneur. I work at{' '}
-          <a href="https://www.premper.com/">Premper Design</a> as a Sofware
+          I’m a developer, math student and a soccer lover. I work at{' '}
+          <a href="https://www.premper.com/" target="_blank">@Premper</a> as a Sofware
           Engineer. I try to learn every day, my goal is that through software I
           can contribute to knowledge, having fun and working on amazing things
           on my computer.
